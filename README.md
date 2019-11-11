@@ -1,2 +1,1 @@
-# flask-project
-flask-project
+# jenkins-flask-tutorial
